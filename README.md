@@ -25,7 +25,7 @@ Este repositorio funciona como la infraestructura base de nuestra comunidad de p
   * [`docs/retroalimentacion.md`](docs/retroalimentacion.md) — Comentarios recibidos en los retos y cambios incorporados.
   * [`docs/uso-de-ia.md`](docs/uso-de-ia.md) — Qué hizo la IA y qué decisiones tomamos nosotros.
 * **Recursos Reutilizables (`recursos/` · Entrega 2):**
-  * [`recursos/plantilla-ficha-actividad.md`](recursos/plantilla-ficha-actividad.md) — Formato estándar para documentar cualquier tipo de actividad (capacitación, lectura, cineforo, día internacional).
+  * [`recursos/guia-actividades-socioculturales-y-tic.md`](recursos/plantilla-ficha-actividad.md) — Formato estándar para documentar cualquier tipo de actividad (capacitación, lectura, cineforo, día internacional).
   * [`recursos/kit-replica-muestrario.md`](recursos/guia-cineforo-y-lectura.md) — Guía paso a paso para facilitar tardes de películas y círculos de lectura participativos.
 
 ---
