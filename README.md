@@ -10,7 +10,7 @@ Este repositorio funciona como la infraestructura base de nuestra comunidad de p
 
 1. **Explora y reutiliza:** Entra a [`recursos/`](recursos/) y descarga una guía o plantilla para tu próxima capacitación, círculo de lectura, cineforo o jornada por un día internacional.
 2. **Comparte o pide ideas:** Abre un **[Issue](../../issues)** para pedir recomendaciones (ej. *"¿Qué película recomiendan para trabajar empatía?"* o *"Ideas para el Día Internacional de..."*) o para contar cómo te fue con una actividad.
-3. **Convierte tu experiencia en un recurso (*Flow → Stock*):** Si realizaste una actividad que funcionó bien, documéntala usando [`recursos/plantilla-ficha-actividad.md`](recursos/plantilla-ficha-actividad.md) y súbela mediante un Pull Request (o déjala en un Issue para que el equipo editor la integre).
+3. **Convierte tu experiencia en un recurso (*Flow → Stock*):** Si realizaste una actividad que funcionó bien, documéntala usando [`recursos/plantilla-ficha-actividad.md`](recursos/guia-actividades-socioculturales-y-tic.md) y súbela mediante un Pull Request (o déjala en un Issue para que el equipo editor la integre).
 
 ---
 
