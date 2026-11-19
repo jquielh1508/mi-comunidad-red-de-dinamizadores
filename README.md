@@ -1,4 +1,4 @@
-# Red de Dinamizadores · Banco de Estrategias y Recursos (`mi-comunidad-dinamizadores`)
+# Red de Dinamizadores · Banco de Estrategias y Recursos
 
 > **Propósito:** Queremos crear **un espacio abierto de intercambio y memoria colectiva** para que **cualquier dinamizador o dinamizadora** pueda **encontrar, adaptar y compartir estrategias y recursos para capacitaciones, círculos de lectura, tardes de películas, días internacionales y otras actividades comunitarias sin empezar de cero**.
 
